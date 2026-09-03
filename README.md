@@ -2,5 +2,5 @@
 
 This is our testing on git init project
 
-Created by Syed Fouzan Hussaini
+Created by Syed Fouzan Hussaini.
 
